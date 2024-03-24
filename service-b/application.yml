@@ -1,1 +1,1 @@
-message: this is auto reloadable spring cloud config
+message: service-b,  this is auto reloadable spring cloud config common
